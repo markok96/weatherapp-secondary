@@ -4,7 +4,6 @@ const date = document.querySelector('.date');
 const temperature = document.querySelector('.temperature');
 const icon = document.querySelector('.icon');
 const description = document.querySelector('.description');
-// const minmax = document.querySelector('.min-max');
 const form = document.querySelector('form');
 
 
